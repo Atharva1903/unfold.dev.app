@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "title": "Soul Yatri – A Mental Health App",
+      "description": "An app that combines journaling, meditation, and therapy tools to improve mental wellness.",
+      "isProfitable": true,
+      "tags": ["Health", "MentalHealth", "SelfCare"],
+      "developersNeeded": 2
+    },
+    {
+      "id": 2,
+      "title": "TRN – The Research Network",
+      "description": "A platform for Indian students and professors to connect and collaborate on research projects.",
+      "isProfitable": false,
+      "tags": ["Education", "Collaboration", "Research"],
+      "developersNeeded": 3
+    },
+    {
+      "id": 3,
+      "title": "SkillSync – Local Skill Barter App",
+      "description": "Barter-based platform where users exchange services like design for coding or cooking for guitar lessons.",
+      "isProfitable": true,
+      "tags": ["Community", "Marketplace", "Barter"],
+      "developersNeeded": 1
+    },
+    {
+      "id": 4,
+      "title": "FarmAI – Crop Suggestion Tool",
+      "description": "AI-powered crop recommendation engine for Indian farmers based on soil and weather data.",
+      "isProfitable": true,
+      "tags": ["AgriTech", "AI", "Farming"],
+      "developersNeeded": 2
+    },
+    {
+      "id": 5,
+      "title": "NoteNest – Collaborative Notes for Students",
+      "description": "Students can upload and co-edit classroom notes, tag topics, and upvote most helpful ones.",
+      "isProfitable": false,
+      "tags": ["Education", "Notes", "Community"],
+      "developersNeeded": 1
+    },
+    {
+      "id": 6,
+      "title": "FitGenie – AI Workout Generator",
+      "description": "Generates personalized home workouts using AI based on your fitness level and goal.",
+      "isProfitable": true,
+      "tags": ["Fitness", "AI", "HealthTech"],
+      "developersNeeded": 2
+    },
+    {
+      "id": 7,
+      "title": "Sangrah – Digital Archive for Indian Culture",
+      "description": "An app that archives folk songs, recipes, and regional stories from Indian households.",
+      "isProfitable": false,
+      "tags": ["Culture", "India", "Heritage"],
+      "developersNeeded": 1
+    },
+    {
+      "id": 8,
+      "title": "PetConnect – Lost Pet Finder App",
+      "description": "Crowdsourced system for locating lost pets using geolocation and pet photo matching.",
+      "isProfitable": true,
+      "tags": ["Animals", "Location", "Community"],
+      "developersNeeded": 2
+    }
+  ]
+  

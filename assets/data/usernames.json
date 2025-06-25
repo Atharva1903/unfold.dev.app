@@ -1,0 +1,23 @@
+[
+    { "id": 1, "username": "@k.atharva1903", "avatarUrl": "assets/images/user1.png" },
+    { "id": 2, "username": "@meenakshi", "avatarUrl": "assets/images/user2.png" },
+    { "id": 3, "username": "@rahulgarg", "avatarUrl": "assets/images/user3.png" },
+    { "id": 4, "username": "@ishamore", "avatarUrl": "assets/images/user4.png" },
+    { "id": 5, "username": "@veersingh", "avatarUrl": "assets/images/user5.png" },
+    { "id": 6, "username": "@sanashaikh", "avatarUrl": "assets/images/user6.png" },
+    { "id": 7, "username": "@namandev", "avatarUrl": "assets/images/user7.png" },
+    { "id": 8, "username": "@kritidesai", "avatarUrl": "assets/images/user8.png" },
+    { "id": 9, "username": "@harshpatel", "avatarUrl": "assets/images/user9.png" },
+    { "id": 10, "username": "@lavanyav", "avatarUrl": "assets/images/user10.png" },
+    { "id": 11, "username": "@yashrao", "avatarUrl": "assets/images/user11.png" },
+    { "id": 12, "username": "@rheamehta", "avatarUrl": "assets/images/user12.png" },
+    { "id": 13, "username": "@amanjain", "avatarUrl": "assets/images/user13.png" },
+    { "id": 14, "username": "@tanvim", "avatarUrl": "assets/images/user14.png" },
+    { "id": 15, "username": "@siddsinha", "avatarUrl": "assets/images/user15.png" },
+    { "id": 16, "username": "@ananyarai", "avatarUrl": "assets/images/user16.png" },
+    { "id": 17, "username": "@rohitn", "avatarUrl": "assets/images/user17.png" },
+    { "id": 18, "username": "@priyab", "avatarUrl": "assets/images/user18.png" },
+    { "id": 19, "username": "@devpatil", "avatarUrl": "assets/images/user19.png" },
+    { "id": 20, "username": "@shrutik", "avatarUrl": "assets/images/user20.png" }
+  ]
+  

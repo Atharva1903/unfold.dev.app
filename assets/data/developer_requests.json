@@ -1,0 +1,115 @@
+[
+    {
+      "id": 1,
+      "title": "Flutter/Mobile App Developer",
+      "description": "An app developer is needed for a project based on building a research community and integrating AI tools along with chatbots and APIs.",
+      "amount": 5000,
+      "developersNeeded": 20,
+      "tags": ["flutter", "mobileapp", "chatbot", "community", "dart", "academia", "aitools", "github"]
+    },
+    {
+      "id": 2,
+      "title": "Frontend Dev with Firebase",
+      "description": "Looking for a frontend web dev skilled in Firebase Auth and Firestore for a fast MVP launch.",
+      "amount": 3000,
+      "developersNeeded": 3,
+      "tags": ["firebase", "auth", "frontend", "html", "css", "javascript"]
+    },
+    {
+      "id": 3,
+      "title": "Web Designer & WordPress Dev",
+      "description": "Need a WordPress expert to customize themes for a business website with booking integration.",
+      "amount": 2500,
+      "developersNeeded": 1,
+      "tags": ["wordpress", "design", "booking", "elementor"]
+    },
+    {
+      "id": 4,
+      "title": "Backend Dev & Co-founder",
+      "description": "Seeking a backend developer to join as a co-founder in an edtech platform using Node.js and MongoDB.",
+      "amount": 1000,
+      "developersNeeded": 1,
+      "tags": ["nodejs", "mongodb", "backend", "edtech", "cofounder"]
+    },
+    {
+      "id": 5,
+      "title": "iOS Developer (Swift + CI/CD)",
+      "description": "We need an iOS developer to implement CI/CD and handle App Store deployment.",
+      "amount": 6000,
+      "developersNeeded": 2,
+      "tags": ["ios", "swift", "cicd", "deployment"]
+    },
+    {
+      "id": 6,
+      "title": "React Developer for Portfolio",
+      "description": "Developer needed to build a portfolio generator using React and TailwindCSS.",
+      "amount": 2000,
+      "developersNeeded": 1,
+      "tags": ["react", "tailwind", "portfolio", "design", "html"]
+    },
+    {
+      "id": 7,
+      "title": "ML Engineer for Stock Predictor",
+      "description": "Looking for an ML engineer to train models for stock market trend prediction using historical data.",
+      "amount": 7000,
+      "developersNeeded": 2,
+      "tags": ["machinelearning", "finance", "stocks", "python", "scikit"]
+    },
+    {
+      "id": 8,
+      "title": "Game Developer (Unity)",
+      "description": "Need a Unity game developer for building a 2D educational game for kids aged 8–12.",
+      "amount": 4000,
+      "developersNeeded": 1,
+      "tags": ["unity", "gamedev", "education", "csharp", "2d"]
+    },
+    {
+      "id": 9,
+      "title": "Full Stack Deve for NGO Website",
+      "description": "Build a donation-enabled platform for a non-profit with secure backend and clean UI.",
+      "amount": 3500,
+      "developersNeeded": 2,
+      "tags": ["fullstack", "express", "mongo", "donations", "nonprofit"]
+    },
+    {
+      "id": 10,
+      "title": "DevOps for SaaS",
+      "description": "Need DevOps engineer to manage Docker/Kubernetes setup for deploying a SaaS platform.",
+      "amount": 8000,
+      "developersNeeded": 1,
+      "tags": ["devops", "docker", "kubernetes", "saas", "deployment"]
+    },
+    {
+      "id": 11,
+      "title": "Data Engineer",
+      "description": "Pull, clean, and transform health data for real-time patient dashboard.",
+      "amount": 5500,
+      "developersNeeded": 2,
+      "tags": ["dataengineer", "etl", "sql", "python", "healthcare"]
+    },
+    {
+      "id": 12,
+      "title": "NLP Dev for Resume Parser",
+      "description": "Looking to extract structured data from resumes using NLP models.",
+      "amount": 4500,
+      "developersNeeded": 1,
+      "tags": ["nlp", "resumes", "spacy", "python", "hrtech"]
+    },
+    {
+      "id": 13,
+      "title": "Chatbot Dev with Rasa",
+      "description": "Need a conversational AI chatbot for an online legal advisory platform.",
+      "amount": 5000,
+      "developersNeeded": 1,
+      "tags": ["chatbot", "rasa", "legaltech", "ai", "python"]
+    },
+    {
+      "id": 14,
+      "title": "AR Dev for Virtual Try-On",
+      "description": "Create AR modules for trying out glasses and watches in a lifestyle app.",
+      "amount": 9000,
+      "developersNeeded": 2,
+      "tags": ["augmentedreality", "arcore", "fashiontech", "camera", "ux"]
+    }
+  ]
+  
